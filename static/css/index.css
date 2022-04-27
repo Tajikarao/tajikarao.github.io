@@ -1,0 +1,9 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: #fde4cf;
+}
+
+.avatar{
+	border-radius: 50%;
+}
